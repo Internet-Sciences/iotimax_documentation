@@ -34,4 +34,3 @@ You can download the firmware for the device by pressing download config button 
 
 <img width="2291" height="747" alt="image" src="https://github.com/user-attachments/assets/bb3fa1e4-f8a8-4604-bea7-4239a69c8ecd" />
 
-
